@@ -16,4 +16,5 @@ Our projects unfold:
 * FMB (Fuck My Bytes): Overcomplicated encryption.
 * Sus History Detector: Unearthing secrets in search histories.
 * Zoliradar: The elusive pursuit continues.
+
 Persecution looms, as our coded spells invite scrutiny from those who would brand us as witches.
