@@ -1,9 +1,6 @@
-We are “Delta Trolling Technologies„
-============================
+We art practitioners of the noble art "Delta Trolling Techniques."
+==================================
 
-Logo and name idea: [Delta Technologies](https://deltatechnologies.hu/) (Pls don't sue us.)
--------------------------------------------------
+Our pastime is to better the realm!
 
-Our hobby is to make the world a better place!
-
-* We live in *Milky way*, *Solar system*, *Earth*
+* We resideth in *Milky way*, *Solar system*, *Earth*
