@@ -33,7 +33,7 @@ Persecution looms, as our coded spells invite scrutiny from those who would bran
 ![CSS](https://img.shields.io/badge/-1572b6?style=flat-square&logo=css3&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FCSS)
 ![C#](https://img.shields.io/badge/-512bd4?style=flat-square&logo=csharp&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FC_Sharp_(programming_language))
 ![PowerShell](https://img.shields.io/badge/-5391fe?style=flat-square&logo=powershell&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FPowerShell)
-Bash
+![GNU Bash](https://img.shields.io/badge/-4eaa25?style=flat-square&logo=gnubash&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FBash_(Unix_shell))
 Markdown
 Docker
 Make
