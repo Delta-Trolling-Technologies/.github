@@ -22,16 +22,17 @@ Persecution looms, as our coded spells invite scrutiny from those who would bran
 
 ## Scriptcraft Tongues
 
-![Visual Basic .NET](https://img.shields.io/badge/%20-512BD4?style=plastic&logo=visualbasic&logoColor=FFFFFF?link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FVisual_Basic_(.NET))
-![Go](https://img.shields.io/badge/%20-00ADD8?style=plastic&logo=go&logoColor=FFFFFF?link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FGo_(programming_language))
-![JavaScript](https://img.shields.io/badge/%20-F7DF1E?style=plastic&logo=javascript&logoColor=000000?link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FJavaScript)
-![C](https://img.shields.io/badge/%20-A8B9CC?style=plastic&logo=c&logoColor=000000?link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FC_(programming_language))
-![Static Badge](https://img.shields.io/badge/%20-3776AB?style=plastic&logo=python&logoColor=FFF)
-![Static Badge](https://img.shields.io/badge/%20-777BB4?style=plastic&logo=php&logoColor=FFF)
-![Static Badge](https://img.shields.io/badge/%20-00599C?style=plastic&logo=cplusplus&logoColor=FFF)
-![Static Badge](https://img.shields.io/badge/%20-E34F26?style=plastic&logo=html5&logoColor=FFF)
-![Static Badge](https://img.shields.io/badge/%20-1572B6?style=plastic&logo=css3&logoColor=FFF)
-![Static Badge](https://img.shields.io/badge/%20-512BD4?style=plastic&logo=csharp&logoColor=FFF)
+![Visual Basic (.NET)](https://img.shields.io/badge/-512bd4?style=flat-square&logo=visualbasic&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FVisual_Basic_(.NET)&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FVisual_Basic_(.NET))
+Go
+JavaScript
+C
+Python
+Php
+C++
+html
+css
+c#
+powershell
 ![Static Badge](https://img.shields.io/badge/%20-5391FE?style=plastic&logo=powershell&logoColor=FFF)
 ![Static Badge](https://img.shields.io/badge/%20-4EAA25?style=plastic&logo=gnubash&logoColor=FFF)
 ![Static Badge](https://img.shields.io/badge/%20-000?style=plastic&logo=markdown&logoColor=FFF)
