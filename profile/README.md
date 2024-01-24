@@ -29,3 +29,5 @@ Persecution looms, as our coded spells invite scrutiny from those who would bran
 ![Static Badge](https://img.shields.io/badge/%20-3776AB?style=plastic&logo=python&logoColor=FFF)
 ![Static Badge](https://img.shields.io/badge/%20-777BB4?style=plastic&logo=php&logoColor=FFF)
 ![Static Badge](https://img.shields.io/badge/%20-00599C?style=plastic&logo=cplusplus&logoColor=FFF)
+![Static Badge](https://img.shields.io/badge/%20-E34F26?style=plastic&logo=html5&logoColor=FFF)
+![Static Badge](https://img.shields.io/badge/%20-1572B6?style=plastic&logo=css3&logoColor=FFF)
