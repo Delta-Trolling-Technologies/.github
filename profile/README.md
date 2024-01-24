@@ -36,5 +36,5 @@ Persecution looms, as our coded spells invite scrutiny from those who would bran
 ![GNU Bash](https://img.shields.io/badge/-4eaa25?style=flat-square&logo=gnubash&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FBash_(Unix_shell))
 ![Markdown](https://img.shields.io/badge/-000000?style=flat-square&logo=markdown&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FMarkdown)
 ![Docker](https://img.shields.io/badge/-2496ed?style=flat-square&logo=docker&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FDocker_(software))
-Make
+![Make](https://img.shields.io/badge/-6d00cc?style=flat-square&logo=make&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FMake_(software))
 Winterm
