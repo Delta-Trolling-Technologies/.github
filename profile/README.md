@@ -1,6 +1,6 @@
 # We art practitioners of the noble art “Delta Trolling Techniques.„
 
-![](https://komarev.com/ghpvc/?username=Delta-Trolling-Technologies&color=grey&style=plastic&label=Visage+Glimpses&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Delta-Trolling-Technologies&color=grey&style=flat-square&label=Visage+Glimpses&abbreviated=true)
 
 ## Our pastime is to better the realm!
 
