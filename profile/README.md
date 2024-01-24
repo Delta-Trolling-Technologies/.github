@@ -28,7 +28,7 @@ Persecution looms, as our coded spells invite scrutiny from those who would bran
 ![C](https://img.shields.io/badge/-a8b9cc?style=flat-square&logo=c&logoColor=000000&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FC_(programming_language))
 ![Python](https://img.shields.io/badge/-3776ab?style=flat-square&logo=python&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FPython_(programming_language))
 ![PHP](https://img.shields.io/badge/-777bb4?style=flat-square&logo=php&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FPHP)
-C++
+![C++](https://img.shields.io/badge/-00599c?style=flat-square&logo=cplusplus&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FC%252B%252B)
 html
 css
 c#
