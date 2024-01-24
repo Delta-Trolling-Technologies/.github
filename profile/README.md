@@ -24,7 +24,7 @@ Persecution looms, as our coded spells invite scrutiny from those who would bran
 
 ![Visual Basic .NET](https://img.shields.io/badge/%20-512BD4?style=plastic&logo=visualbasic&logoColor=FFF?link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FVisual_Basic_(.NET))
 ![Go](https://img.shields.io/badge/%20-00ADD8?style=plastic&logo=go&logoColor=FFF?link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FGo_(programming_language))
-![Static Badge](https://img.shields.io/badge/%20-F7DF1E?style=plastic&logo=javascript&logoColor=000)
+![JavaScript](https://img.shields.io/badge/%20-F7DF1E?style=plastic&logo=javascript&logoColor=000?link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FJavaScript)
 ![Static Badge](https://img.shields.io/badge/%20-A8B9CC?style=plastic&logo=c&logoColor=000)
 ![Static Badge](https://img.shields.io/badge/%20-3776AB?style=plastic&logo=python&logoColor=FFF)
 ![Static Badge](https://img.shields.io/badge/%20-777BB4?style=plastic&logo=php&logoColor=FFF)
