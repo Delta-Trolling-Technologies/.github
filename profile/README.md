@@ -37,4 +37,4 @@ Persecution looms, as our coded spells invite scrutiny from those who would bran
 ![Markdown](https://img.shields.io/badge/-000000?style=flat-square&logo=markdown&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FMarkdown)
 ![Docker](https://img.shields.io/badge/-2496ed?style=flat-square&logo=docker&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FDocker_(software))
 ![Make](https://img.shields.io/badge/-6d00cc?style=flat-square&logo=make&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FMake_(software))
-Winterm
+![Batch](https://img.shields.io/badge/-4d4d4d?style=flat-square&logo=windowsterminal&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FBatch_file)
