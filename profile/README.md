@@ -33,9 +33,8 @@ html
 css
 c#
 powershell
-![Static Badge](https://img.shields.io/badge/%20-5391FE?style=plastic&logo=powershell&logoColor=FFF)
-![Static Badge](https://img.shields.io/badge/%20-4EAA25?style=plastic&logo=gnubash&logoColor=FFF)
-![Static Badge](https://img.shields.io/badge/%20-000?style=plastic&logo=markdown&logoColor=FFF)
-![Static Badge](https://img.shields.io/badge/%20-2496ED?style=plastic&logo=docker&logoColor=FFF)
-![Static Badge](https://img.shields.io/badge/%20-6D00CC?style=plastic&logo=make&logoColor=FFF)
-![Static Badge](https://img.shields.io/badge/%20-4D4D4D?style=plastic&logo=windowsterminal&logoColor=FFF)
+Bash
+Markdown
+Docker
+Make
+Winterm
