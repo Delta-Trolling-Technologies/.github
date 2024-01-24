@@ -36,3 +36,4 @@ Persecution looms, as our coded spells invite scrutiny from those who would bran
 ![Static Badge](https://img.shields.io/badge/%20-4EAA25?style=plastic&logo=gnubash&logoColor=FFF)
 ![Static Badge](https://img.shields.io/badge/%20-000?style=plastic&logo=markdown&logoColor=FFF)
 ![Static Badge](https://img.shields.io/badge/%20-2496ED?style=plastic&logo=docker&logoColor=FFF)
+![Static Badge](https://img.shields.io/badge/%20-6D00CC?style=plastic&logo=make&logoColor=FFF)
