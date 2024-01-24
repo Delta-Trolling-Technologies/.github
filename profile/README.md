@@ -1,6 +1,8 @@
 We art practitioners of the noble art “Delta Trolling Techniques.„
 ==================================
 
+![](https://komarev.com/ghpvc/?username=Delta-Trolling-Technologies&color=grey&style=plastic&label=Visage+Glimpses&abbreviated=true)
+
 Our pastime is to better the realm!
 
 * We resideth in *Milky way*, *Solar system*, *Earth*
