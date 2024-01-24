@@ -1,5 +1,4 @@
-We art practitioners of the noble art “Delta Trolling Techniques.„
-==================================
+# We art practitioners of the noble art “Delta Trolling Techniques.„
 
 ![](https://komarev.com/ghpvc/?username=Delta-Trolling-Technologies&color=grey&style=plastic&label=Visage+Glimpses&abbreviated=true)
 
@@ -20,3 +19,7 @@ Our projects unfold:
 * Zoliradar: The elusive pursuit continues.
 
 Persecution looms, as our coded spells invite scrutiny from those who would brand us as witches.
+
+## Scriptcraft Tongues
+
+* ![Static Badge](https://img.shields.io/badge/%7C%20Visual%20Basic%20.NET-512BD4?style=plastic&logo=visualbasic)
