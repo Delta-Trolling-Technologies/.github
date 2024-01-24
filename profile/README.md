@@ -30,7 +30,7 @@ Persecution looms, as our coded spells invite scrutiny from those who would bran
 ![PHP](https://img.shields.io/badge/-777bb4?style=flat-square&logo=php&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FPHP)
 ![C++](https://img.shields.io/badge/-00599c?style=flat-square&logo=cplusplus&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FC%252B%252B)
 ![HTML](https://img.shields.io/badge/-e34f26?style=flat-square&logo=html5&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FHTML)
-css
+![CSS](https://img.shields.io/badge/-1572b6?style=flat-square&logo=css3&logoColor=ffffff&link=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FCSS)
 c#
 powershell
 Bash
